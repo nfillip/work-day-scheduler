@@ -36,12 +36,12 @@ textarea {
 }
 
 .past {
-  background-color: rgba(25, 31, 52, 0.5);
+  background-color: rgba(111, 117, 139, 0.6);
   color: white;
 }
 
 .present {
-  background-color:rgba(255, 0, 0 , 0.5);
+  background-color:rgba(255, 0, 0 , 0.6);
   color: white;
 }
 
