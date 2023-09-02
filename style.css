@@ -78,3 +78,31 @@ textarea {
 textarea {
   font-weight: bold;
 }
+
+#fixedpos {
+  position: fixed; 
+  top: 10px;
+  left: 30px;
+  color: black;
+}
+
+#anchor {
+   color: black;
+   }
+
+#camera-icon {
+  height: 50px;
+  width: 50px;
+}
+
+#hidden-p {
+  display: none;
+}
+
+#anchor:hover {
+  #hidden-p {
+    display:inline;
+    text-align: center;
+  }
+}
+
