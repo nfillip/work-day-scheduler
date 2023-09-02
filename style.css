@@ -1,11 +1,10 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 16px;
   background-image: url(./header-mountains.JPG);
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
-  
 }
 
 textarea {
@@ -41,7 +40,7 @@ textarea {
 }
 
 .present {
-  background-color:rgba(255, 0, 0 , 0.6);
+  background-color: rgba(255, 0, 0, 0.6);
   color: white;
 }
 
@@ -66,8 +65,6 @@ textarea {
 #font-large {
   font-size: 2rem;
   font-style: italic;
-  
-  
 }
 
 .font-larger {
@@ -80,15 +77,15 @@ textarea {
 }
 
 #fixedpos {
-  position: fixed; 
+  position: fixed;
   top: 10px;
   left: 30px;
   color: black;
 }
 
 #anchor {
-   color: black;
-   }
+  color: black;
+}
 
 #camera-icon {
   height: 50px;
@@ -101,8 +98,7 @@ textarea {
 
 #anchor:hover {
   #hidden-p {
-    display:inline;
+    display: inline;
     text-align: center;
   }
 }
-
