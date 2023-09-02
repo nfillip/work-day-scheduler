@@ -1,6 +1,11 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
+  background-image: url(./header-mountains.JPG);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  
 }
 
 textarea {
@@ -31,17 +36,17 @@ textarea {
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: rgba(25, 31, 52, 0.5);
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color:rgba(255, 0, 0 , 0.5);
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: rgba(76, 175, 80, 0.7);
   color: white;
 }
 
@@ -56,4 +61,20 @@ textarea {
 .saveBtn i:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
+}
+
+#font-large {
+  font-size: 2rem;
+  font-style: italic;
+  
+  
+}
+
+.font-larger {
+  font-size: 3rem;
+  font-weight: bolder;
+}
+
+textarea {
+  font-weight: bold;
 }
