@@ -62,7 +62,7 @@ textarea {
   transition: all 0.3s ease-in-out;
 }
 
-#font-large {
+/* #font-large {
   font-size: 2rem;
   font-style: italic;
 }
@@ -70,7 +70,7 @@ textarea {
 .font-larger {
   font-size: 3rem;
   font-weight: bolder;
-}
+} */
 
 textarea {
   font-weight: bold;
